@@ -1,2 +1,2 @@
 # DERMIS-AndroidApp
-DERMIS adalah aplikasi untuk mendeteksi kondisi kulit
+DERMIS is a mobile application that implemented machine learning architecture to detect skin diseases problems.
