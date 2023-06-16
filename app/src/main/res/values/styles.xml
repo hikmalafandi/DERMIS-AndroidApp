@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light">
+        <!-- Atur atribut-atribut tema yang Anda inginkan -->
+        <item name="colorPrimary">#FF0000</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+    </style>
+</resources>

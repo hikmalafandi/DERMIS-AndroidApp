@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Dermis</string>
+    <string name="kamera">Camera</string>
+    <string name="deteksi_kulit">Skin Detection</string>
+    <string name="user_upload">user_upload</string>
+    <string name="condition">Condition</string>
+    <string name="confidence">Confidence</string>
+    <string name="cause">Cause</string>
+    <string name="treatment">Treatment</string>
+    <string name="dermis_splashScreen">Dermis</string>
+    <string name="kepanjangan">Dermal Evaluation with Researched Machine Intelligence System</string>
+    <string name="galeri">Gallery</string>
+    <string name="dermis_actionbar">Dermis</string>
+    <string name="perintah">Please insert an image</string>
+    <string name="description">Description</string>
+    <string name="severity">Severity</string>
+    <string name="alert_recommendation">Recommendation</string>
+    <string name="alert_recommendation_message">We recommend you to consult with a doctor for further evaluation and appropriate treatment</string>
+</resources>
